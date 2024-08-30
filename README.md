@@ -1,2 +1,3 @@
 # Games-in-C
-Unpublished games in C
+### Unpublished games in C
+**C** is a foundational programming language developed in the early 1970s by Dennis Ritchie at Bell Labs. Known for its efficiency and control, C provides low-level access to memory and system resources, making it ideal for system programming, embedded systems, and developing operating systems. The language’s syntax and concepts have influenced many other programming languages, including C++, Java, and Python. C's strengths lie in its simplicity, portability, and performance, which make it suitable for creating high-performance applications and software that require direct hardware manipulation. Despite being considered low-level compared to modern languages, C remains widely used in academia and industry for its robustness and efficiency in resource-constrained environments.
